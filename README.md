@@ -1,2 +1,4 @@
 # Algoritimos
- P.O.T.A
+/*
+Alguns algoritimos P.O.T.A
+*/
